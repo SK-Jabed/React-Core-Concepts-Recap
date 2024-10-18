@@ -6,7 +6,7 @@ function App() {
   return (
     <>
 
-      <h2>Vite + React</h2>
+      <h2>React Core Concepts Recap</h2>
       
     </>
   )
